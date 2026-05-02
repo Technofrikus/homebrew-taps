@@ -1,6 +1,6 @@
 cask "pipette" do
-  version "0.3.17"
-  sha256 "6a2a6d97e03cca2c4fe7d9a8b05f54505e48a6afeb8102f0c9c9d44665fa60c3"
+  version "0.4.0"
+  sha256 "6cd006acb25ffde42b19579b066ac1735dd6e55b4c3f40dc216c5dd9bdbbc0f9"
 
   url "https://github.com/darakuneko/pipette-desktop/releases/download/v#{version}/Pipette-mac-arm64.dmg"
   name "Pipette"
